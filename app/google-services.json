@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917810774855",
+    "project_id": "smartonlineexam-a7a87",
+    "storage_bucket": "smartonlineexam-a7a87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917810774855:android:6dd7b207330c6c67fe0262",
+        "android_client_info": {
+          "package_name": "com.dataflair.smartonlineexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917810774855-o8fohinoq03gu86i9s2rugk5a4fg7152.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvQb7Tt-DtiV8oWVXmYlvvvpSudH3aOwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917810774855-o8fohinoq03gu86i9s2rugk5a4fg7152.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
